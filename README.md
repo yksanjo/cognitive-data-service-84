@@ -1,5 +1,12 @@
 # cognitive-data-service-84
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/cognitive-data-service-84/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/cognitive-data-service-84/actions)
+![License](https://img.shields.io/github/license/yksanjo/cognitive-data-service-84)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/cognitive-data-service-84)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/cognitive-data-service-84)
+
 ## Detailed Description
 
 cognitive-data-service-84 is maintained as an industry-grade software project with production-ready engineering practices.  
